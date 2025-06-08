@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-APP APTV
 
 #EXTINF:-1 tvg-logo="https://core.luuv.com/previews/YvpnxyvKlN.webp" group-title="Xaner 和 Grossy" ,展厅
 https://video.luuv.com/xqYwamwZVg/YvpnxyvKlN/manifest.mpd

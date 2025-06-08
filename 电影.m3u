@@ -1,194 +1,194 @@
 #EXTM3U
 
-#EXTINF:-1 logo="https://core.luuv.com/previews/YvpnxyvKlN.webp" group-title="Xaner 和 Grossy" ,展厅
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/YvpnxyvKlN.webp" group-title="Xaner 和 Grossy" ,展厅
 https://video.luuv.com/xqYwamwZVg/YvpnxyvKlN/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/EbVwpX1w75.webp" group-title="Xaner 和 Grossy" ,厨房
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/EbVwpX1w75.webp" group-title="Xaner 和 Grossy" ,厨房
 https://video.luuv.com/xqYwamwZVg/EbVwpX1w75/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/Z6AWJg7w4O.webp" group-title="Xaner 和 Grossy" ,客厅
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/Z6AWJg7w4O.webp" group-title="Xaner 和 Grossy" ,客厅
 https://video.luuv.com/xqYwamwZVg/Z6AWJg7w4O/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/96dwZ9vWmP.webp" group-title="Xaner 和 Grossy" ,客厅1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/96dwZ9vWmP.webp" group-title="Xaner 和 Grossy" ,客厅1
 https://video.luuv.com/xqYwamwZVg/96dwZ9vWmP/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/6r8KXOQn5m.webp" group-title="Xaner 和 Grossy" ,阳台
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/6r8KXOQn5m.webp" group-title="Xaner 和 Grossy" ,阳台
 https://video.luuv.com/xqYwamwZVg/6r8KXOQn5m/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/1QXW4bPnvV.webp" group-title="Xaner 和 Grossy" ,床右
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/1QXW4bPnvV.webp" group-title="Xaner 和 Grossy" ,床右
 https://video.luuv.com/xqYwamwZVg/1QXW4bPnvV/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/7L2wlp7wvQ.webp" group-title="Xaner 和 Grossy" ,床左
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/7L2wlp7wvQ.webp" group-title="Xaner 和 Grossy" ,床左
 https://video.luuv.com/xqYwamwZVg/7L2wlp7wvQ/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/JpEWzyxKge.webp" group-title="Xaner 和 Grossy" ,床后
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/JpEWzyxKge.webp" group-title="Xaner 和 Grossy" ,床后
 https://video.luuv.com/xqYwamwZVg/JpEWzyxKge/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/DLZwYOvKON.webp" group-title="Xaner 和 Grossy" ,浴室
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/DLZwYOvKON.webp" group-title="Xaner 和 Grossy" ,浴室
 https://video.luuv.com/xqYwamwZVg/DLZwYOvKON/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/AgbKbBzKdG.webp" group-title="Xaner 和 Grossy" ,浴室门
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/AgbKbBzKdG.webp" group-title="Xaner 和 Grossy" ,浴室门
 https://video.luuv.com/xqYwamwZVg/AgbKbBzKdG/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/1QXW4BPnvV.webp" group-title="艾米丽和达蒙" ,厨房
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/1QXW4BPnvV.webp" group-title="艾米丽和达蒙" ,厨房
 https://video.luuv.com/pXqwEXWO9E/1QXW4BPnvV/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/7L2wlG7WvQ.webp" group-title="艾米丽和达蒙" ,厨房1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/7L2wlG7WvQ.webp" group-title="艾米丽和达蒙" ,厨房1
 https://video.luuv.com/pXqwEXWO9E/7L2wlG7WvQ/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/JpEWzoxwge.webp" group-title="艾米丽和达蒙" ,厨房2
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/JpEWzoxwge.webp" group-title="艾米丽和达蒙" ,厨房2
 https://video.luuv.com/pXqwEXWO9E/JpEWzoxwge/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/jpOWMRVw5L.webp" group-title="艾米丽和达蒙" ,客厅
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/jpOWMRVw5L.webp" group-title="艾米丽和达蒙" ,客厅
 https://video.luuv.com/pXqwEXWO9E/jpOWMRVw5L/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/DLZwYAvwON.webp" group-title="艾米丽和达蒙" ,客厅1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/DLZwYAvwON.webp" group-title="艾米丽和达蒙" ,客厅1
 https://video.luuv.com/pXqwEXWO9E/DLZwYAvwON/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/AgbKbEzndG.webp" group-title="艾米丽和达蒙" ,床左
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/AgbKbEzndG.webp" group-title="艾米丽和达蒙" ,床左
 https://video.luuv.com/pXqwEXWO9E/AgbKbEzndG/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/6r8KXpQK5m.webp" group-title="艾米丽和达蒙" ,床右
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/6r8KXpQK5m.webp" group-title="艾米丽和达蒙" ,床右
 https://video.luuv.com/pXqwEXWO9E/6r8KXpQK5m/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/YvpnxrvWlN.webp" group-title="艾米丽和达蒙" ,床后
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/YvpnxrvWlN.webp" group-title="艾米丽和达蒙" ,床后
 https://video.luuv.com/pXqwEXWO9E/YvpnxrvWlN/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/pXqwE9ywO9.webp" group-title="艾米丽和达蒙" ,浴缸
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/pXqwE9ywO9.webp" group-title="艾米丽和达蒙" ,浴缸
 https://video.luuv.com/pXqwEXWO9E/pXqwE9ywO9/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/7gvKN7pW24.webp" group-title="艾米丽和达蒙" ,过道
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/7gvKN7pW24.webp" group-title="艾米丽和达蒙" ,过道
 https://video.luuv.com/pXqwEXWO9E/7gvKN7pW24/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/XBJwrPOKV2.webp" group-title="亚伦&凯利" ,厨房
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/XBJwrPOKV2.webp" group-title="亚伦&凯利" ,厨房
 https://video.luuv.com/qrZno0K2gM/XBJwrPOKV2/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/Jx2Kg5Jwm9.webp" group-title="亚伦&凯利" ,厨房1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/Jx2Kg5Jwm9.webp" group-title="亚伦&凯利" ,厨房1
 https://video.luuv.com/qrZno0K2gM/Jx2Kg5Jwm9/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/rYawdLNwx5.webp" group-title="亚伦&凯利" ,客厅
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/rYawdLNwx5.webp" group-title="亚伦&凯利" ,客厅
 https://video.luuv.com/qrZno0K2gM/rYawdLNwx5/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,客厅1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,客厅1
 https://video.luuv.com/qrZno0K2gM/Z32WQp4Kdx/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,客厅2
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,客厅2
 https://video.luuv.com/qrZno0K2gM/ye3WPEjwDx/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,床左
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,床左
 https://video.luuv.com/qrZno0K2gM/aRYwDNPKkX/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,床后
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,床后
 https://video.luuv.com/qrZno0K2gM/EvRKAz4WXp/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,床右
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,床右
 https://video.luuv.com/qrZno0K2gM/Pq9n7j0wVY/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,衣柜
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,衣柜
 https://video.luuv.com/qrZno0K2gM/D7Xwyl7W5V/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,浴室
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,浴室
 https://video.luuv.com/qrZno0K2gM/25bWGZNKRX/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,浴缸
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,浴缸
 https://video.luuv.com/qrZno0K2gM/vVaWjPPnd6/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,过道
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,过道
 https://video.luuv.com/qrZno0K2gM/LarwvakWZg/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,阳台
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="亚伦&凯利" ,阳台
 https://video.luuv.com/qrZno0K2gM/lGPw95MweJ/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,客厅
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,客厅
 https://video.luuv.com/EOGn1XwZ6B/v93W649nxo/manifest.mpd 
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,客厅1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,客厅1
 https://video.luuv.com/EOGn1XwZ6B/Z32WQqxWdx/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,客厅2
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,客厅2
 https://video.luuv.com/EOGn1XwZ6B/rYawdpRwx5/manifest.mpd 
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,厨房
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,厨房
 https://video.luuv.com/EOGn1XwZ6B/XBJwrkNnV2/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,厨房1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,厨房1
 https://video.luuv.com/EOGn1XwZ6B/Jx2Kgrrnm9/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,床右
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,床右
 https://video.luuv.com/EOGn1XwZ6B/ye3WPqywDx/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,床左
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,床左
 https://video.luuv.com/EOGn1XwZ6B/aRYwDZ4KkX/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,床后
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,床后
 https://video.luuv.com/EOGn1XwZ6B/EvRKAoBwXp/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,浴缸
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,浴缸
 https://video.luuv.com/EOGn1XwZ6B/25bWGzmKRX/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,浴室
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,浴室
 https://video.luuv.com/EOGn1XwZ6B/D7XwygoK5V/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,阳台
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,阳台
 https://video.luuv.com/EOGn1XwZ6B/Pq9n7lMKVY/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,过道
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/.webp" group-title="Esteban 和 Foxy" ,过道
 https://video.luuv.com/EOGn1XwZ6B/Pq9n7lMKVY/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/Z0yKO92wkx.webp" group-title="Lucein 和 Alice" ,厨房
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/Z0yKO92wkx.webp" group-title="Lucein 和 Alice" ,厨房
 https://video.luuv.com/oB3ne9nkVx/Z0yKO92wkx/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/469nqmgnLE.webp" group-title="Lucein 和 Alice" ,厨房1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/469nqmgnLE.webp" group-title="Lucein 和 Alice" ,厨房1
 https://video.luuv.com/oB3ne9nkVx/469nqmgnLE/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/Bj3wkJlWqe.webp" group-title="Lucein 和 Alice" ,客厅
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/Bj3wkJlWqe.webp" group-title="Lucein 和 Alice" ,客厅
 https://video.luuv.com/oB3ne9nkVx/Bj3wkJlWqe/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/XBJwrJOwV2.webp" group-title="Lucein 和 Alice" ,客厅1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/XBJwrJOwV2.webp" group-title="Lucein 和 Alice" ,客厅1
 https://video.luuv.com/oB3ne9nkVx/XBJwrJOwV2/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/Jx2KgAJwm9.webp" group-title="Lucein 和 Alice" ,客厅2
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/Jx2KgAJwm9.webp" group-title="Lucein 和 Alice" ,客厅2
 https://video.luuv.com/oB3ne9nkVx/Jx2KgAJwm9/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/rYawddNwx5.webp" group-title="Lucein 和 Alice" ,床左
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/rYawddNwx5.webp" group-title="Lucein 和 Alice" ,床左
 https://video.luuv.com/oB3ne9nkVx/rYawddNwx5/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/v93W6YpKxo.webp" group-title="Lucein 和 Alice" ,床后
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/v93W6YpKxo.webp" group-title="Lucein 和 Alice" ,床后
 https://video.luuv.com/oB3ne9nkVx/v93W6YpKxo/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/Z32WQN4wdx.webp" group-title="Lucein 和 Alice" ,床右
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/Z32WQN4wdx.webp" group-title="Lucein 和 Alice" ,床右
 https://video.luuv.com/oB3ne9nkVx/Z32WQN4wdx/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/ye3WPJjnDx.webp" group-title="Lucein 和 Alice" ,浴室门
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/ye3WPJjnDx.webp" group-title="Lucein 和 Alice" ,浴室门
 https://video.luuv.com/oB3ne9nkVx/ye3WPJjnDx/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/aRYwDbPKkX.webp" group-title="Lucein 和 Alice" ,浴室
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/aRYwDbPKkX.webp" group-title="Lucein 和 Alice" ,浴室
 https://video.luuv.com/oB3ne9nkVx/aRYwDbPKkX/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/EvRKA24WXp.webp" group-title="Lucein 和 Alice" ,过道
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/EvRKA24WXp.webp" group-title="Lucein 和 Alice" ,过道
 https://video.luuv.com/oB3ne9nkVx/EvRKA24WXp/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/D7Xwy7pK5V.webp" group-title="格沃格" ,厨房
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/D7Xwy7pK5V.webp" group-title="格沃格" ,厨房
 https://video.luuv.com/AgbKbxwdGB/D7Xwy7pK5V/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/25bWG9anRX.webp" group-title="格沃格" ,厨房1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/25bWG9anRX.webp" group-title="格沃格" ,厨房1
 https://video.luuv.com/AgbKbxwdGB/25bWG9anRX/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/vVaWjB4Wd6.webp" group-title="格沃格" ,客厅
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/vVaWjB4Wd6.webp" group-title="格沃格" ,客厅
 https://video.luuv.com/AgbKbxwdGB/vVaWjB4Wd6/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/LarwvqgWZg.webp" group-title="格沃格" ,客厅1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/LarwvqgWZg.webp" group-title="格沃格" ,客厅1
 https://video.luuv.com/AgbKbxwdGB/LarwvqgWZg/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/lGPw9LgWeJ.webp" group-title="格沃格" ,客厅2
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/lGPw9LgWeJ.webp" group-title="格沃格" ,客厅2
 https://video.luuv.com/AgbKbxwdGB/lGPw9LgWeJ/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/q4jnmp0wor.webp" group-title="格沃格" ,客厅3
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/q4jnmp0wor.webp" group-title="格沃格" ,客厅3
 https://video.luuv.com/AgbKbxwdGB/q4jnmp0wor/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/dlawRblwE6.webp" group-title="格沃格" ,床左
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/dlawRblwE6.webp" group-title="格沃格" ,床左
 https://video.luuv.com/AgbKbxwdGB/dlawRblwE6/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/r1kn8VpWRG.webp" group-title="格沃格" ,床后
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/r1kn8VpWRG.webp" group-title="格沃格" ,床后
 https://video.luuv.com/AgbKbxwdGB/r1kn8VpWRG/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/96dwZgAnmP.webp" group-title="格沃格" ,床右
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/96dwZgAnmP.webp" group-title="格沃格" ,床右
 https://video.luuv.com/AgbKbxwdGB/96dwZgAnmP/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/1QXW4BenvV.webp" group-title="格沃格" ,浴室
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/1QXW4BenvV.webp" group-title="格沃格" ,浴室
 https://video.luuv.com/AgbKbxwdGB/1QXW4BenvV/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/7L2wlGGWvQ.webp" group-title="格沃格" ,过道
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/7L2wlGGWvQ.webp" group-title="格沃格" ,过道
 https://video.luuv.com/AgbKbxwdGB/7L2wlGGWvQ/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/q4jnm1Xnor.webp" group-title="Abbadon 和 Kareflore" ,厨房
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/q4jnm1Xnor.webp" group-title="Abbadon 和 Kareflore" ,厨房
 https://video.luuv.com/arlnVznm0Z/q4jnm1Xnor/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/r1kn8DNnRG.webp" group-title="Abbadon 和 Kareflore" ,厨房1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/r1kn8DNnRG.webp" group-title="Abbadon 和 Kareflore" ,厨房1
 https://video.luuv.com/arlnVznm0Z/r1kn8DNnRG/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/J9An2Jxnya.webp" group-title="Abbadon 和 Kareflore" ,客厅
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/J9An2Jxnya.webp" group-title="Abbadon 和 Kareflore" ,客厅
 https://video.luuv.com/arlnVznm0Z/J9An2Jxnya/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/EbVwpL1w75.webp" group-title="Abbadon 和 Kareflore" ,客厅1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/EbVwpL1w75.webp" group-title="Abbadon 和 Kareflore" ,客厅1
 https://video.luuv.com/arlnVznm0Z/EbVwpL1w75/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/Z6AWJo7w4O.webp" group-title="Abbadon 和 Kareflore" ,客厅2
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/Z6AWJo7w4O.webp" group-title="Abbadon 和 Kareflore" ,客厅2
 https://video.luuv.com/arlnVznm0Z/Z6AWJo7w4O/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/egqn3eqW1o.webp" group-title="Abbadon 和 Kareflore" ,床左
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/egqn3eqW1o.webp" group-title="Abbadon 和 Kareflore" ,床左
 https://video.luuv.com/arlnVznm0Z/egqn3eqW1o/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/xqYwaPrWZV.webp" group-title="Abbadon 和 Kareflore" ,床后
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/xqYwaPrWZV.webp" group-title="Abbadon 和 Kareflore" ,床后
 https://video.luuv.com/arlnVznm0Z/xqYwaPrWZV/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/EOGn1JRKZ6.webp" group-title="Abbadon 和 Kareflore" ,床右
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/EOGn1JRKZ6.webp" group-title="Abbadon 和 Kareflore" ,床右
 https://video.luuv.com/arlnVznm0Z/EOGn1JRKZ6/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/N7Mn0JrWxg.webp" group-title="Abbadon 和 Kareflore" ,浴室
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/N7Mn0JrWxg.webp" group-title="Abbadon 和 Kareflore" ,浴室
 https://video.luuv.com/arlnVznm0Z/N7Mn0JrWxg/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/rRbW530nzD.webp" group-title="Abbadon 和 Kareflore" ,展厅
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/rRbW530nzD.webp" group-title="Abbadon 和 Kareflore" ,展厅
 https://video.luuv.com/arlnVznm0Z/rRbW530nzD/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/arlnVgaKm0.webp" group-title="安雅" ,厨房
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/arlnVgaKm0.webp" group-title="安雅" ,厨房
 https://video.luuv.com/N7Mn0jWxgP/arlnVgaKm0/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/oB3ne1LnkV.webp" group-title="安雅" ,厨房1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/oB3ne1LnkV.webp" group-title="安雅" ,厨房1
 https://video.luuv.com/N7Mn0jWxgP/oB3ne1LnkV/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/xB0WBbpWaO.webp" group-title="安雅" ,客厅
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/xB0WBbpWaO.webp" group-title="安雅" ,客厅
 https://video.luuv.com/N7Mn0jWxgP/xB0WBbpWaO/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/egqn3BLw1o.webp" group-title="安雅" ,客厅1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/egqn3BLw1o.webp" group-title="安雅" ,客厅1
 https://video.luuv.com/N7Mn0jWxgP/egqn3BLw1o/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/xqYwaeLwZV.webp" group-title="安雅" ,客厅2
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/xqYwaeLwZV.webp" group-title="安雅" ,客厅2
 https://video.luuv.com/N7Mn0jWxgP/xqYwaeLwZV/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/EOGn1LNwZ6.webp" group-title="安雅" ,床左
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/EOGn1LNwZ6.webp" group-title="安雅" ,床左
 https://video.luuv.com/N7Mn0jWxgP/EOGn1LNwZ6/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/N7Mn0oNwxg.webp" group-title="安雅" ,床后
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/N7Mn0oNwxg.webp" group-title="安雅" ,床后
 https://video.luuv.com/N7Mn0jWxgP/N7Mn0oNwxg/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/rRbW5ZMwzD.webp" group-title="安雅" ,床右
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/rRbW5ZMwzD.webp" group-title="安雅" ,床右
 https://video.luuv.com/N7Mn0jWxgP/rRbW5ZMwzD/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/Z0yKOmowkx.webp" group-title="安雅" ,浴室
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/Z0yKOmowkx.webp" group-title="安雅" ,浴室
 https://video.luuv.com/N7Mn0jWxgP/Z0yKOmowkx/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/Pq9n7b0wVY.webp" group-title="Vilika 和 Elika" ,厨房
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/Pq9n7b0wVY.webp" group-title="Vilika 和 Elika" ,厨房
 https://video.luuv.com/egqn3zw1o9/Pq9n7b0wVY/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/D7XwyG7K5V.webp" group-title="Vilika 和 Elika" ,厨房1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/D7XwyG7K5V.webp" group-title="Vilika 和 Elika" ,厨房1
 https://video.luuv.com/egqn3zw1o9/D7XwyG7K5V/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/25bWGgNWRX.webp" group-title="Vilika 和 Elika" ,客厅
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/25bWGgNWRX.webp" group-title="Vilika 和 Elika" ,客厅
 https://video.luuv.com/egqn3zw1o9/25bWGgNWRX/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/LarwvkknZg.webp" group-title="Vilika 和 Elika" ,床左
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/LarwvkknZg.webp" group-title="Vilika 和 Elika" ,床左
 https://video.luuv.com/egqn3zw1o9/LarwvkknZg/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/lGPw9eMweJ.webp" group-title="Vilika 和 Elika" ,床后
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/lGPw9eMweJ.webp" group-title="Vilika 和 Elika" ,床后
 https://video.luuv.com/egqn3zw1o9/lGPw9eMweJ/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/vVaWjlPnd6.webp" group-title="Vilika 和 Elika" ,床右
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/vVaWjlPnd6.webp" group-title="Vilika 和 Elika" ,床右
 https://video.luuv.com/egqn3zw1o9/vVaWjlPnd6/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/q4jnmYXnor.webp" group-title="Vilika 和 Elika" ,浴缸
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/q4jnmYXnor.webp" group-title="Vilika 和 Elika" ,浴缸
 https://video.luuv.com/egqn3zw1o9/q4jnmYXnor/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/r1kn8eNKRG.webp" group-title="Vilika 和 Elika" ,浴缸1
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/r1kn8eNKRG.webp" group-title="Vilika 和 Elika" ,浴缸1
 https://video.luuv.com/egqn3zw1o9/r1kn8eNKRG/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/J9An29xwya.webp" group-title="Vilika 和 Elika" ,过道
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/J9An29xwya.webp" group-title="Vilika 和 Elika" ,过道
 https://video.luuv.com/egqn3zw1o9/J9An29xwya/manifest.mpd
-#EXTINF:-1 logo="https://core.luuv.com/previews/dlawR2dwE6.webp" group-title="Vilika 和 Elika" ,衣柜
+#EXTINF:-1 tvg-logo="https://core.luuv.com/previews/dlawR2dwE6.webp" group-title="Vilika 和 Elika" ,衣柜
 https://video.luuv.com/egqn3zw1o9/dlawR2dwE6/manifest.mpd
